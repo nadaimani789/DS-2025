@@ -1,6 +1,5 @@
 Nada EL IMANI
 <img width="300" height="500" alt="bb-Photoroom" src="https://github.com/user-attachments/assets/9b11f7c5-8996-44ac-9d84-8478e9b83c70" />
-![Analyse statistique](NADA.png)
 
 # Rapport d'Analyse Approfondie du PIB
 ## Comparaison Internationale et Évolution Temporelle
@@ -1265,3 +1264,5 @@ donnees_pib = {
     'Allemagne': [3417, 3761, 3544, 3753, 3890, 3377, 3479, 3693, 3996, 
                   3861, 3846, 4260, 4072, 4456],
     'Japon': [5700, 6157, 6203, 5156, 4896, 4444, 5070, 4
+![graphique](I1.png)
+
