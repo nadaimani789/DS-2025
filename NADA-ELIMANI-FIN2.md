@@ -1,6 +1,6 @@
+Nada EL IMANI
 # Rapport d'Analyse Approfondie du PIB
 ## Comparaison Internationale et Évolution Temporelle
-
 ---
 
 ## 1. INTRODUCTION ET CADRE DE L'ANALYSE
