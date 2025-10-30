@@ -1,4 +1,6 @@
 Nada EL IMANI
+<img width="300" height="500" alt="bb-Photoroom" src="https://github.com/user-attachments/assets/9b11f7c5-8996-44ac-9d84-8478e9b83c70" />
+
 # Rapport d'Analyse Approfondie du PIB
 ## Comparaison Internationale et Évolution Temporelle
 ---
