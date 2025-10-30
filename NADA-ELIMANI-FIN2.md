@@ -1264,7 +1264,5 @@ donnees_pib = {
     'Allemagne': [3417, 3761, 3544, 3753, 3890, 3377, 3479, 3693, 3996, 
                   3861, 3846, 4260, 4072, 4456],
     'Japon': [5700, 6157, 6203, 5156, 4896, 4444, 5070, 4
-
+<img width="600" height="800" alt="télécharger" src="https://github.com/user-attachments/assets/d15a7765-ed30-4f4c-97ba-6b8d331511ff" />
 <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/9d0f0f5c-aa74-4555-9559-2bba08b3c517" />
-
-
