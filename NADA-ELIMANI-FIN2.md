@@ -18,6 +18,9 @@ Les objectifs spécifiques incluent :
 - Comparer le niveau de développement via le PIB par habitant
 - Identifier les corrélations et tendances structurelles
 
+<img width="1389" height="989" alt="image" src="https://github.com/user-attachments/assets/204c77f6-0515-4e84-9046-0fecfc7af64d" />
+
+
 ### 1.2 Méthodologie générale employée
 
 L'analyse repose sur une approche quantitative combinant :
