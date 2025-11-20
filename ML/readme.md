@@ -22,7 +22,10 @@ from sklearn.preprocessing import StandardScaler
 
 # Configuration pour la reproductibilité (utile pour le train_test_split)
 RANDOM_SEED = 42
-1. Analyse des Données1.1. Chargement et Aperçu des Données (Questions 1, 2)Nous chargeons le jeu de données des vins blancs directement depuis l'UCI.Python# Lien direct vers le jeu de données
+## 1. Analyse des Données
+## 1.1. Chargement et Aperçu des Données (Questions 1, 2)
+
+Nous chargeons le jeu de données des vins blancs directement depuis l'UCI.Python# Lien direct vers le jeu de données
 link = "[http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv](http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv)"
 
 # Chargement des données (séparateur: ';')
